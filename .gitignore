@@ -1,0 +1,33 @@
+
+# Unity
+/Library
+/Logs
+/Temp
+/UserSettings
+/obj
+
+# Visual Studio Code
+.vscode
+.vs
+
+# User-specific files
+*.userosscache
+*.sln.docstates
+*.user
+*.suo
+*.userprefs
+*DS_Store
+*.sln.ide
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+msbuild.log
+msbuild.err
+msbuild.wrn
+/publish
