@@ -33,7 +33,7 @@ namespace Assets.Scripts.Utils
 				{
 					try
 					{
-						if (string.IsNullOrEmpty(webRequest.url))
+						if (string.IsNullOrEmpty(webRequest.downloadHandler.text))
 						{
 							throw new Exception("Response content is empty");
 						}
